@@ -1,0 +1,86 @@
+.nav-wrapper {
+  background-color: #6f4037;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.slider .indicators .indicator-item.active {
+  background-color: #6f4037;
+}
+
+.move {
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+
+.parallax-container {
+  min-height: 280px;
+  height: auto;
+}
+
+.icon-coffee {
+  color: #6f4037;
+}
+
+.footer-one {
+  background-color: #6f4037;
+}
+
+.footer-two {
+  background-color: #462822;
+}
+
+.brand-logo {
+  margin-left: 20px;
+}
+
+.home {
+  display: flex;
+  position: relative;
+  z-index: 20;
+}
+
+.home-icon {
+  margin-left: 6px;
+}
+
+.copy-part {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: aliceblue;
+}
+
+.line {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.div1 {
+  padding-top: 20px;
+  display: flex;
+}
+
+.div2 {
+  display: flex;
+}
+
+.heart {
+  padding-top: 10px;
+}
+
+.extra {
+  margin-top: -4px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.footer-sec {
+  display: flex;
+  justify-content: space-around;
+}
+.soc-sec {
+  margin-right: -250px;
+}
